@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/BP_Projectile.uasset",
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/Main.umap",
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/BP_Barrel.uasset",
+				"/Users/adamvu/Unreal Projects/WarehouseWreckage/WarehouseWrekage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
